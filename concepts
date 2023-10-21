@@ -1,0 +1,17 @@
+Como criar uma tabela.
+Como dropar uma tabela.
+Como se insere, deleta e atualiza dados na tabela.
+Preparação para montar uma consulta.
+
+Como utilizar pelo IDE ou Studio
+Na aba da pasta tabelas da seção pesquisador de objetos, clicar com botão direito/novo/tabela
+
+Como utilzar pelo SQL
+Selecionar a pasta do banco de dados onde se deseja criar a nova tabela. No menu superior Nova Consulta vai abrir uma janela nova para escrever os comandos SQL. 
+CREATE TABLE tb_departamento(). 
+Abra e feche os parenteses para não esquecer de fechar ao final da criação da tabela.
+Dentro dos parenteses, escreva o nome das colunas;
+codigo_departamento 		VARCHAR(50), NOT NULL ou NULL
+nome_departamento	VARCHAR(50)
+clicar em executar ou F5
+
